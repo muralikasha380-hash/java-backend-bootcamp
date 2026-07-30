@@ -21,13 +21,6 @@ public class ScannerExample {
 	        System.out.print("Enter Student Grade : ");
 	        char grade = sc.next().charAt(0);
 
-	     // Pass or Fail
-	        if (marks >= 27) {
-	            System.out.println("Result : PASS");
-	        } else {
-	            System.out.println("Result : FAIL");
-	        }
-
 	        sc.close();
 	    }
 	}
