@@ -1,0 +1,8 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore Eclipse build output
+bin/
+
+# Ignore log files
+*.log
