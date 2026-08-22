@@ -1,3 +1,0 @@
-Name: Murali
-Course: Java Backend Development
-Day: 22
