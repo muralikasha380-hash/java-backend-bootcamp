@@ -10,7 +10,7 @@ public class DBConnection {
 		
 		String url = "jdbc:oracle:thin:@//localhost:1521/XEPDB1";
 		String username = "javauser";
-		String password = "Java123";
+		String password = "your_pwd";
 		
 		return DriverManager.getConnection(url, username, password);
 	}	 
