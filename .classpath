@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/app/murali/product/21c/dbhomeXE/jdbc/lib/ojdbc11_g.jar"/>
+	<classpathentry kind="lib" path="D:/OracleXE/dbhomeXE/jdbc/lib/ojdbc11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
